@@ -36,6 +36,7 @@
 - **Crime Forecasting Using Spatiotemporal Models** (September 2024)
     - *Technologies: Python, Graph Neural Networks (GNN), LSTM/GRU*
     - Engineered a data pipeline and predictive models with Python, Graph Neural Networks (GNNs), and LSTM/GRU layers to forecast crime likelihood in Chicago, demonstrating how spatiotemporal modeling improves real-time adaptability in urban safety planning.
+
 ➡️ Explore all my projects in the pinned repos below or directly [here](https://github.com/iroochi?tab=repositories).
 
 ---
