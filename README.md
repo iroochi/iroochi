@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Roochita Ikkurthy!
 
 🎓 **Graduate Student (MS in Computer Science)** at Florida State University  
-💻 **Aspiring Data Scientist and Data Engineer** with a passion for impactful, real-world projects.  
+💻 **Aspiring Data Scientist/Data Engineer/Machine Learning Engineer** with a passion for impactful, real-world projects.  
 📍 Based in Tallahassee, Florida  
 📫 Reach out: [roochita27@gmail.com](mailto:roochita27@gmail.com)
 
