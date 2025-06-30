@@ -8,8 +8,8 @@
 ---
 
 ## 🚀 About Me
-- **Current Role**: Research Assistant at FSU, working on clustering pipelines for cancer-associated gene identification.
-- **Past Experience**: Data Science Intern at Verzeo, where I streamlined data workflows and implemented ML models.
+- **Current**: Looking for Full-time opportunities in ML/Data Science fields
+- **Past Experience**: Research Assistant at FSU, working on clustering pipelines for cancer-associated gene identification; Data Science Intern at Verzeo, where I streamlined data workflows and implemented ML models.
 - **Technical Toolkit**:  
   - **Programming**: Python, Java, C, R, SQL, HTML/CSS 
   - **Data Analytics & Visualization**:  Tableau, Power BI, Pandas, NumPy, Excel, BeautifulSoup, Matplotlib
