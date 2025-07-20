@@ -2,7 +2,7 @@
 
 🎓 **Graduate Student (MS in Computer Science)** at Florida State University  
 💻 **Aspiring Data Scientist/Data Engineer/Machine Learning Engineer** with a passion for impactful, real-world projects.  
-📍 Based in Beaverton, Oregon
+📍 Based in Beaverton, Oregon 
 📫 Reach out: [roochita27@gmail.com](mailto:roochita27@gmail.com)
 
 ---
