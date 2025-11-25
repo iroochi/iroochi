@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- **Current**: Looking for Full-time opportunities in ML/Data Science fields
+- **Current**: Python Software Developer at PDF Solutions(Santa Clara, CA)  
 - **Past Experience**: Research Assistant at FSU, working on clustering pipelines for cancer-associated gene identification; Data Science Intern at Verzeo, where I streamlined data workflows and implemented ML models.
 - **Technical Toolkit**:  
   - **Programming**: Python, Java, C, R, SQL, HTML/CSS 
